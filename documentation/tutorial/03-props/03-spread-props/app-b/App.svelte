@@ -3,7 +3,7 @@
 
 	const pkg = {
 		name: 'svelte',
-		version: 3,
+		version: 4,
 		speed: 'blazing',
 		website: 'https://svelte.dev'
 	};
